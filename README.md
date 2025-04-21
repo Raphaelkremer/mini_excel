@@ -39,6 +39,3 @@ python main.py
 - `tkinter` (included with the standard Python installer)
 - `ttkthemes` (installed automatically from *requirements.txt*)
 
-## Licence
-
-Add a licence (e.g. MIT or Apache 2.0) if you plan to share this project publicly.
